@@ -2,7 +2,7 @@
 
 I'm studying a double degree of business and informatics in the University of Granada. I'm now making a year abroad in Tenerife.
 
-<a href="https://marta11192@gmail.com"><img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.jpg" width=300 alt="Imagen email"/>
+<a href="mailto:marta11192@gmail.com"><img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.jpg" width=100 alt="Imagen email"/>
 
 <!--
 **MartaMolina01/MartaMolina01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
